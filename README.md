@@ -1,2 +1,6 @@
-# github-starter-bio
-my first project on github
+#about me
+hello! i am learning how to use github
+##my fav hobbies
+gaming
+music
+sleep
